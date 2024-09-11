@@ -1,5 +1,18 @@
 // Basic Hello, World! program
 
+// This is a single line comment
+
+/* This is a single line comment */
+
+/*
+This
+is
+a
+multiline
+comment
+*/
+
+
 #include <stdio.h>
 
 int main(void) {
@@ -11,3 +24,4 @@ int main(void) {
     
     return 0;
 }
+

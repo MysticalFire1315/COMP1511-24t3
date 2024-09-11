@@ -1,5 +1,17 @@
 // Basic Hello, World! program
 
+/* This is a single line comment */
+
+/*
+
+This
+is
+a 
+multiline
+comment
+
+*/
+
 #include <stdio.h>
 
 int main(void) {
@@ -7,7 +19,7 @@ int main(void) {
     // command is printed on the line below it, instead of on the same
     // line.
     // What does this imply about what '\n' does?
-    printf("Hello, World!\n");
+    printf("Hello Joel!\n");
     
     return 0;
 }
