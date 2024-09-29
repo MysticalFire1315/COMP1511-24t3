@@ -1,0 +1,11 @@
+Variables:
+row = 0
+col = 1
+
+
+
+Output:
+XXXX
+XOOX
+XOOX
+XXXX
